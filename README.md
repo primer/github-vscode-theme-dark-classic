@@ -1,4 +1,4 @@
-# GitHub VS Code theme (Dark Classic)
+# GitHub (Dark Classic) VS Code theme
 
 :warning: Note: This theme is not actively maintained. It's an older version of https://github.com/primer/github-vscode-theme before adjusting the dark colors to match github.com. Feel free to fork this theme if you prefer this older version.
 
