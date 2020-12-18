@@ -4,11 +4,6 @@
 
 ![GitHub Dark Classic VS Code theme](https://user-images.githubusercontent.com/378023/102616403-d9279e80-417a-11eb-86fa-ddda833e3704.png)
 
-## Install
-
-1. Go to [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme-dark)
-2. Click on the "Install" button
-
 ## Override this theme
 
 To quickly test something, you can also override this (or any other) theme in your personal config file. Please follow the guide in the [color theme](https://code.visualstudio.com/api/extension-guides/color-theme) documentation.
