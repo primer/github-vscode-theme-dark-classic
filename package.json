@@ -1,0 +1,49 @@
+{
+	"name": "github-vscode-theme-dark",
+	"displayName": "GitHub Dark Classic theme",
+	"description": "GitHub theme for VS Code",
+	"version": "1.1.5",
+	"publisher": "GitHub",
+	"license": "MIT",
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#1b1f23",
+		"theme": "dark"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/primer/github-vscode-theme-dark"
+	},
+	"bugs": {
+		"url": "https://github.com/primer/github-vscode-theme-dark/issues"
+	},
+	"engines": {
+		"vscode": "^1.43.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"theme",
+		"github",
+		"dark"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "GitHub Dark Classic",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark.json"
+			}
+		]
+	},
+	"devDependencies": {
+		"@primer/primitives": "^2.0.1",
+		"color": "^3.1.2",
+		"nodemon": "^2.0.3"
+	},
+	"scripts": {
+		"start": "nodemon --watch src src/index.js",
+		"build": "node src/index.js"
+	}
+}
