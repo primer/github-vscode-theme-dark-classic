@@ -1,6 +1,6 @@
 # GitHub (Dark Classic) VS Code theme
 
-:warning: Note: This theme is not actively maintained. It's an older version of https://github.com/primer/github-vscode-theme before adjusting the dark colors to match github.com. Feel free to fork this theme if you prefer this older version.
+:warning: Note: This theme is not actively maintained. It's an older version of https://github.com/primer/github-vscode-theme before adjusting the dark colors to match github.com.
 
 ![GitHub Dark Classic VS Code theme](https://user-images.githubusercontent.com/378023/102616403-d9279e80-417a-11eb-86fa-ddda833e3704.png)
 
