@@ -6,7 +6,7 @@
 
 ## Install
 
-You can download [github-vscode-theme-dark-1.1.5.vsix](https://github.com/primer/github-vscode-theme-dark/raw/main/github-vscode-theme-dark-1.1.5.vsix) and then install it by following the [Install from a VSIX](https://code.visualstudio.com/docs/editor/extension-gallery#_install-from-a-vsix) guide.
+You can download [github-vscode-theme-dark-classic-1.1.5.vsix](https://github.com/primer/github-vscode-theme-dark/raw/main/github-vscode-theme-dark-classic-1.1.5.vsix) and then install it by following the [Install from a VSIX](https://code.visualstudio.com/docs/editor/extension-gallery#_install-from-a-vsix) guide.
 
 ## Override this theme
 
