@@ -1,5 +1,5 @@
 {
-	"name": "github-vscode-theme-dark",
+	"name": "github-vscode-theme-dark-classic",
 	"displayName": "GitHub Dark Classic theme",
 	"description": "GitHub theme for VS Code",
 	"version": "1.1.5",
@@ -12,10 +12,10 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/primer/github-vscode-theme-dark"
+		"url": "https://github.com/primer/github-vscode-theme-dark-classic"
 	},
 	"bugs": {
-		"url": "https://github.com/primer/github-vscode-theme-dark/issues"
+		"url": "https://github.com/primer/github-vscode-theme-dark-classic/issues"
 	},
 	"engines": {
 		"vscode": "^1.43.0"
